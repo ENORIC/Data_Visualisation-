@@ -51,8 +51,8 @@ and components are being used and what that block of code produces.
 
 ## Tools Used
 
-- Python / Streamlit — dashboard framework
-- Pandas — data loading and preprocessing
-- GeoPandas — spatial joins and district mapping
-- Plotly — interactive visualisations
-- Tarfile — reading compressed seasonal data files
+- **Python / Streamlit — dashboard framework**
+- **Pandas — data loading and preprocessing**
+- **GeoPandas — spatial joins and district mapping**
+- **Plotly — interactive visualisations**
+- **Tarfile — reading compressed seasonal data files**
