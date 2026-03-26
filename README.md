@@ -17,7 +17,7 @@ in 2024, made it the perfect dataset to explore urban mobility patterns.
 *Dataset:* Berlin Open Data 
 *Source:* https://daten.berlin.de/datensaetze/verkehrsdetektion-berlin
 
-*Dataset:* •	Open Data Information Berlin (ODIS)
+*Dataset:* Open Data Information Berlin (ODIS)
 *Source:* https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/
 
 *Stream lit Dashboard link: -->*
